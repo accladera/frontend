@@ -1,0 +1,1 @@
+export const SYSTEM_ERROR = 'Error del sistema';
